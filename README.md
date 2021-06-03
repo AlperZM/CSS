@@ -1,1 +1,1 @@
-# CSS
+# CSS İpuçları ve detayları
